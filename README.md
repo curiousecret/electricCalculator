@@ -7,4 +7,4 @@ Power (Wh) = Voltage (V) * Current  (A)
 Energy (kWh) = Power * Hour * 1000 ;
 Total = Energy(kWh) * (current rate/100);
 
- Thus, a calculator that calculate electricity rates per hour and per day based on user input of voltage, current (A), and current rate is developed by using html, css, php and Bootsrap 4.
+ Thus, a calculator that calculate electricity rates per hour and per day based on user input of voltage, current (A), and current rate was developed by using html, css, php and Bootsrap 4.
