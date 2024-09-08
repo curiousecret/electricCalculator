@@ -63,6 +63,7 @@
         }
 
         echo "</tbody></table>";
+        echo "new changes";
     }
     ?>
 </div>
